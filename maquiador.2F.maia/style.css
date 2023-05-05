@@ -1,0 +1,55 @@
+*{margin:0;padding:0;}
+.cabeçalho{
+    background-color:#bd80f3;
+    COLOR:rgb(0, 0, 0);
+    display:inline-block;
+    margin:0  16px;
+    padding:24px 0;
+    justify-content: space-around;
+    padding: 24px 0;
+    font-size:24px;
+}
+.cabeçalho-imagem
+{
+    width:20%
+}
+    .cabeçalho-lista-item
+{
+    display: inline-block;
+    MARGIN: 0 16px;
+    padding:24px 0
+    font-size:24px;
+}
+.empreendedorismo-imagem{
+    width:25%;
+}
+.empreendedorismo{
+    background-image: -o-linear-gradient(#383838,#b54bcc);
+    color:#000000
+    diplay:#bd80f3
+    justify-content: center;
+    padding:24px 0;
+}
+.empreendedorismo{
+padding:24px 0;
+}
+    .empreendedorismo-conteudo
+
+    .maquiador-imagem{
+    whidth:25%;
+}
+.maquiador{
+    background-image: -o-linear-gradient(#383D58;#00c0eb);
+    color:-moz-only-white
+    display:flex;
+    justify-content:center;
+    padding:24px 0;
+}
+.maquiador-contudo{
+    width:35%;
+}
+.Marcela e Raiane
+{
+    background-color: rgb(127, 255, 185);
+    color: black
+text- aling:center;}
